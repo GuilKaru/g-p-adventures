@@ -1,0 +1,3012 @@
+fileFormatVersion: 2
+guid: e7934dbf7b2a05342bf6c16a1a89fd06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5361722722682109358
+    second: Water_swamp_strip60_0
+  - first:
+      213: 5538905865274294525
+    second: Water_swamp_strip60_1
+  - first:
+      213: -8123391055123034728
+    second: Water_swamp_strip60_2
+  - first:
+      213: -4616833002131817737
+    second: Water_swamp_strip60_3
+  - first:
+      213: 7247813624327159681
+    second: Water_swamp_strip60_4
+  - first:
+      213: -5096534064556152570
+    second: Water_swamp_strip60_5
+  - first:
+      213: 4846762081120199280
+    second: Water_swamp_strip60_6
+  - first:
+      213: 7615435786732345262
+    second: Water_swamp_strip60_7
+  - first:
+      213: -7922832031867665411
+    second: Water_swamp_strip60_8
+  - first:
+      213: 2056189437536130603
+    second: Water_swamp_strip60_9
+  - first:
+      213: 3808864442879397045
+    second: Water_swamp_strip60_10
+  - first:
+      213: 3188784905878292105
+    second: Water_swamp_strip60_11
+  - first:
+      213: 7230443786578678837
+    second: Water_swamp_strip60_12
+  - first:
+      213: 2100983428440183251
+    second: Water_swamp_strip60_13
+  - first:
+      213: -8732853466750561195
+    second: Water_swamp_strip60_14
+  - first:
+      213: 2506627591204153656
+    second: Water_swamp_strip60_15
+  - first:
+      213: -5939812209542601938
+    second: Water_swamp_strip60_16
+  - first:
+      213: -368665423158047322
+    second: Water_swamp_strip60_17
+  - first:
+      213: 4872386142029997137
+    second: Water_swamp_strip60_18
+  - first:
+      213: -1111877828423683274
+    second: Water_swamp_strip60_19
+  - first:
+      213: -8507948816980000118
+    second: Water_swamp_strip60_20
+  - first:
+      213: -9153327862661318775
+    second: Water_swamp_strip60_21
+  - first:
+      213: -1724134984053864632
+    second: Water_swamp_strip60_22
+  - first:
+      213: 6292580705019011631
+    second: Water_swamp_strip60_23
+  - first:
+      213: 2973341901171450204
+    second: Water_swamp_strip60_24
+  - first:
+      213: 1430787957096077711
+    second: Water_swamp_strip60_25
+  - first:
+      213: 3007832637542103829
+    second: Water_swamp_strip60_26
+  - first:
+      213: 8907861558398748399
+    second: Water_swamp_strip60_27
+  - first:
+      213: -7554821505999577609
+    second: Water_swamp_strip60_28
+  - first:
+      213: -889622312494413369
+    second: Water_swamp_strip60_29
+  - first:
+      213: -1260271347162849527
+    second: Water_swamp_strip60_30
+  - first:
+      213: -4556899111734776720
+    second: Water_swamp_strip60_31
+  - first:
+      213: -646332241916830313
+    second: Water_swamp_strip60_32
+  - first:
+      213: -1905800609939085561
+    second: Water_swamp_strip60_33
+  - first:
+      213: 8385148990135126844
+    second: Water_swamp_strip60_34
+  - first:
+      213: -9217330680422177172
+    second: Water_swamp_strip60_35
+  - first:
+      213: -3201593105463047043
+    second: Water_swamp_strip60_36
+  - first:
+      213: -6157805138116734439
+    second: Water_swamp_strip60_37
+  - first:
+      213: 6423262386092729328
+    second: Water_swamp_strip60_38
+  - first:
+      213: 5402417356270214823
+    second: Water_swamp_strip60_39
+  - first:
+      213: 7266818651740175639
+    second: Water_swamp_strip60_40
+  - first:
+      213: -4788360854818293312
+    second: Water_swamp_strip60_41
+  - first:
+      213: 857645254935670507
+    second: Water_swamp_strip60_42
+  - first:
+      213: -7264730962315487258
+    second: Water_swamp_strip60_43
+  - first:
+      213: 6509223276971773767
+    second: Water_swamp_strip60_44
+  - first:
+      213: -6095883120114502521
+    second: Water_swamp_strip60_45
+  - first:
+      213: -7175604050254104985
+    second: Water_swamp_strip60_46
+  - first:
+      213: 6006517790558672337
+    second: Water_swamp_strip60_47
+  - first:
+      213: -2949418043927210945
+    second: Water_swamp_strip60_48
+  - first:
+      213: 1172319498397355604
+    second: Water_swamp_strip60_49
+  - first:
+      213: 1497231946630488873
+    second: Water_swamp_strip60_50
+  - first:
+      213: -8611218474388857331
+    second: Water_swamp_strip60_51
+  - first:
+      213: 430359701627808529
+    second: Water_swamp_strip60_52
+  - first:
+      213: -8974383748853274330
+    second: Water_swamp_strip60_53
+  - first:
+      213: 3326251054406467524
+    second: Water_swamp_strip60_54
+  - first:
+      213: -1011572815750799448
+    second: Water_swamp_strip60_55
+  - first:
+      213: -8794654381113701727
+    second: Water_swamp_strip60_56
+  - first:
+      213: 8997119794974721703
+    second: Water_swamp_strip60_57
+  - first:
+      213: 860617930773046311
+    second: Water_swamp_strip60_58
+  - first:
+      213: -574279322476635560
+    second: Water_swamp_strip60_59
+  - first:
+      213: 8004268065911948513
+    second: Water_swamp_strip60_60
+  - first:
+      213: -8172352631277016552
+    second: Water_swamp_strip60_61
+  - first:
+      213: 2490474489459547967
+    second: Water_swamp_strip60_62
+  - first:
+      213: 3345656288392873013
+    second: Water_swamp_strip60_63
+  - first:
+      213: 6600662193824725033
+    second: Water_swamp_strip60_64
+  - first:
+      213: -8525135158902553774
+    second: Water_swamp_strip60_65
+  - first:
+      213: -3571651384871231389
+    second: Water_swamp_strip60_66
+  - first:
+      213: 6720545010035068115
+    second: Water_swamp_strip60_67
+  - first:
+      213: 3103927092645404483
+    second: Water_swamp_strip60_68
+  - first:
+      213: 2089220298006098986
+    second: Water_swamp_strip60_69
+  - first:
+      213: -2758057911062922257
+    second: Water_swamp_strip60_70
+  - first:
+      213: -510321397739491184
+    second: Water_swamp_strip60_71
+  - first:
+      213: -8165403635762573520
+    second: Water_swamp_strip60_72
+  - first:
+      213: -6045562206475051534
+    second: Water_swamp_strip60_73
+  - first:
+      213: -4836921943106521309
+    second: Water_swamp_strip60_74
+  - first:
+      213: 3971988937055203925
+    second: Water_swamp_strip60_75
+  - first:
+      213: 1101923141260473805
+    second: Water_swamp_strip60_76
+  - first:
+      213: 3613065038268995263
+    second: Water_swamp_strip60_77
+  - first:
+      213: 5985521852262829856
+    second: Water_swamp_strip60_78
+  - first:
+      213: -7713725615346489940
+    second: Water_swamp_strip60_79
+  - first:
+      213: -7425005440859497057
+    second: Water_swamp_strip60_80
+  - first:
+      213: -4871845849617369863
+    second: Water_swamp_strip60_81
+  - first:
+      213: 3004512825562051666
+    second: Water_swamp_strip60_82
+  - first:
+      213: 4568551346079617726
+    second: Water_swamp_strip60_83
+  - first:
+      213: -7621932459222205126
+    second: Water_swamp_strip60_84
+  - first:
+      213: 4481569100672717248
+    second: Water_swamp_strip60_85
+  - first:
+      213: 8199720645685234914
+    second: Water_swamp_strip60_86
+  - first:
+      213: -1815732783202985847
+    second: Water_swamp_strip60_87
+  - first:
+      213: 6643612784875511882
+    second: Water_swamp_strip60_88
+  - first:
+      213: -7338682260805641871
+    second: Water_swamp_strip60_89
+  - first:
+      213: -1299328890333118040
+    second: Water_swamp_strip60_90
+  - first:
+      213: 1104284612173575733
+    second: Water_swamp_strip60_91
+  - first:
+      213: -9169761395608295743
+    second: Water_swamp_strip60_92
+  - first:
+      213: -1738034945008071634
+    second: Water_swamp_strip60_93
+  - first:
+      213: 427374782075460733
+    second: Water_swamp_strip60_94
+  - first:
+      213: -878390694787483841
+    second: Water_swamp_strip60_95
+  - first:
+      213: 8588307529895332184
+    second: Water_swamp_strip60_96
+  - first:
+      213: 627769138565501481
+    second: Water_swamp_strip60_97
+  - first:
+      213: -716434856831662477
+    second: Water_swamp_strip60_98
+  - first:
+      213: -2087413838572353642
+    second: Water_swamp_strip60_99
+  - first:
+      213: -2420783522096975576
+    second: Water_swamp_strip60_100
+  - first:
+      213: 3953908875970695761
+    second: Water_swamp_strip60_101
+  - first:
+      213: 6657593014557229382
+    second: Water_swamp_strip60_102
+  - first:
+      213: -3928663825828044013
+    second: Water_swamp_strip60_103
+  - first:
+      213: 6907694700091153945
+    second: Water_swamp_strip60_104
+  - first:
+      213: 1984263752928413338
+    second: Water_swamp_strip60_105
+  - first:
+      213: -2190487938812500568
+    second: Water_swamp_strip60_106
+  - first:
+      213: -4098987752611087450
+    second: Water_swamp_strip60_107
+  - first:
+      213: 1534142962460582902
+    second: Water_swamp_strip60_108
+  - first:
+      213: -1404963830808791721
+    second: Water_swamp_strip60_109
+  - first:
+      213: 8856339946407192923
+    second: Water_swamp_strip60_110
+  - first:
+      213: 26489540294740172
+    second: Water_swamp_strip60_111
+  - first:
+      213: -6527390185820291844
+    second: Water_swamp_strip60_112
+  - first:
+      213: 7410555264804258326
+    second: Water_swamp_strip60_113
+  - first:
+      213: -7655611534244036776
+    second: Water_swamp_strip60_114
+  - first:
+      213: -5426870636219595279
+    second: Water_swamp_strip60_115
+  - first:
+      213: -2147028468239999311
+    second: Water_swamp_strip60_116
+  - first:
+      213: -8619024702249142679
+    second: Water_swamp_strip60_117
+  - first:
+      213: -4278404078703074478
+    second: Water_swamp_strip60_118
+  - first:
+      213: 4930253149456258244
+    second: Water_swamp_strip60_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Water_swamp_strip60_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead7b9d986aa86a40800000000000000
+      internalID: 5361722722682109358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df08000c9852edc40800000000000000
+      internalID: 5538905865274294525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d4ecbffdae34f80800000000000000
+      internalID: -8123391055123034728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faf1a878d6bdefb0800000000000000
+      internalID: -4616833002131817737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fb14c3718659460800000000000000
+      internalID: 7247813624327159681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609e37855497549b0800000000000000
+      internalID: -5096534064556152570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072a00cfe68234340800000000000000
+      internalID: 4846762081120199280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea79afdef767fa960800000000000000
+      internalID: 7615435786732345262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df301757e327c0290800000000000000
+      internalID: -7922832031867665411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b265047366d098c10800000000000000
+      internalID: 2056189437536130603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc4173d70ecbd430800000000000000
+      internalID: 3808864442879397045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986c00c1af6d04c20800000000000000
+      internalID: 3188784905878292105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534d37bb052b75460800000000000000
+      internalID: 7230443786578678837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1d823fb41382d10800000000000000
+      internalID: 2100983428440183251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5545bc66a0caec680800000000000000
+      internalID: -8732853466750561195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839aae5738459c220800000000000000
+      internalID: 2506627591204153656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e236fa1144c819da0800000000000000
+      internalID: -5939812209542601938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad02bb30cc32eaf0800000000000000
+      internalID: -368665423158047322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_18
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154eb3491613e9340800000000000000
+      internalID: 4872386142029997137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6337c2b8101d190f0800000000000000
+      internalID: -1111877828423683274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82c3b4c0a1bde980800000000000000
+      internalID: -8507948816980000118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_21
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987f2692ec8d8f080800000000000000
+      internalID: -9153327862661318775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_22
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84745aaed54a218e0800000000000000
+      internalID: -1724134984053864632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22a22bcfccb35750800000000000000
+      internalID: 6292580705019011631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_24
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51eb17a4be634920800000000000000
+      internalID: 2973341901171450204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_25
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f895e9bf01e2bd310800000000000000
+      internalID: 1430787957096077711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_26
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bf58009d7fdb920800000000000000
+      internalID: 3007832637542103829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_27
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe607b834e41f9b70800000000000000
+      internalID: 8907861558398748399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_28
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdd9611ed1e72790800000000000000
+      internalID: -7554821505999577609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_29
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9428f583d67a3f0800000000000000
+      internalID: -889622312494413369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_30
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f51cf03ed928ee0800000000000000
+      internalID: -1260271347162849527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_31
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c61cfb664a2c0c0800000000000000
+      internalID: -4556899111734776720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d5aa91044c707f0800000000000000
+      internalID: -646332241916830313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_33
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707abdf417c3d85e0800000000000000
+      internalID: -1905800609939085561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_34
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bcab184980e5470800000000000000
+      internalID: 8385148990135126844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_35
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c666028e496751080800000000000000
+      internalID: -9217330680422177172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_36
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c09898808a193d0800000000000000
+      internalID: -3201593105463047043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_37
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9121a723ad41b8aa0800000000000000
+      internalID: -6157805138116734439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_38
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f36f26bb13042950800000000000000
+      internalID: 6423262386092729328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_39
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae14e856fd39fa40800000000000000
+      internalID: 5402417356270214823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_40
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71df720001de8d460800000000000000
+      internalID: 7266818651740175639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_41
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c97b202c235c8db0800000000000000
+      internalID: -4788360854818293312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_42
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee6dbbb0d7f6eb00800000000000000
+      internalID: 857645254935670507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_43
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e757621ead7e2b90800000000000000
+      internalID: -7264730962315487258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_44
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f4b934518655a50800000000000000
+      internalID: 6509223276971773767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_45
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78476418992176ba0800000000000000
+      internalID: -6095883120114502521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_46
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766ffbf52222b6c90800000000000000
+      internalID: -7175604050254104985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_47
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5505b4b107b5350800000000000000
+      internalID: 6006517790558672337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_48
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34579d6aef8117d0800000000000000
+      internalID: -2949418043927210945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_49
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e0d316f5ae44010800000000000000
+      internalID: 1172319498397355604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_50
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923e645d58c37c410800000000000000
+      internalID: 1497231946630488873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_51
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e55c6fb6ece7880800000000000000
+      internalID: -8611218474388857331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_52
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b2b255ed1f8f500800000000000000
+      internalID: 430359701627808529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_53
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629ef8b5785947380800000000000000
+      internalID: -8974383748853274330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_54
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf7aa3f5b7392e20800000000000000
+      internalID: 3326251054406467524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_55
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af5bb432eb26f1f0800000000000000
+      internalID: -1011572815750799448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_56
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa826bbf6c13f580800000000000000
+      internalID: -8794654381113701727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_57
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a68a15e8c03cdc70800000000000000
+      internalID: 8997119794974721703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_58
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7242f03c27781fb00800000000000000
+      internalID: 860617930773046311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_59
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a9de5bfffb708f0800000000000000
+      internalID: -574279322476635560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_60
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e44fa3c56fd41f60800000000000000
+      internalID: 8004268065911948513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_61
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a2181b498f59e80800000000000000
+      internalID: -8172352631277016552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_62
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f98626a51ff8220800000000000000
+      internalID: 2490474489459547967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_63
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53485321ba82e6e20800000000000000
+      internalID: 3345656288392873013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_64
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928f5412b434a9b50800000000000000
+      internalID: 6600662193824725033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_65
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2538b67bdb2a0b980800000000000000
+      internalID: -8525135158902553774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_66
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360e7372df1fe6ec0800000000000000
+      internalID: -3571651384871231389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_67
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc0a24641c244d50800000000000000
+      internalID: 6720545010035068115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_68
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f17d5de3d531b20800000000000000
+      internalID: 3103927092645404483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_69
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a247038bac66efc10800000000000000
+      internalID: 2089220298006098986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_70
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb732551f869b9d0800000000000000
+      internalID: -2758057911062922257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_71
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090f47e7469fae8f0800000000000000
+      internalID: -510321397739491184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_72
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f40bac7a8aeae80800000000000000
+      internalID: -8165403635762573520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_73
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd17873439d91ca0800000000000000
+      internalID: -6045562206475051534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_74
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327f7deae1dcfdcb0800000000000000
+      internalID: -4836921943106521309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_75
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552f4fcc4e65f1730800000000000000
+      internalID: 3971988937055203925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_76
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5fc9c3241da4f00800000000000000
+      internalID: 1101923141260473805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_77
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6186c628f242230800000000000000
+      internalID: 3613065038268995263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_78
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fc6777968d01350800000000000000
+      internalID: 5985521852262829856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_79
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5e0720c6753f490800000000000000
+      internalID: -7713725615346489940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_80
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d1a3214e415f890800000000000000
+      internalID: -7425005440859497057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_81
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4781d030ab36cb0800000000000000
+      internalID: -4871845849617369863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_82
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2543bba0f7c22b920800000000000000
+      internalID: 3004512825562051666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_83
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb255397e31c66f30800000000000000
+      internalID: 4568551346079617726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_84
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d7a02afc4793690800000000000000
+      internalID: -7621932459222205126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_85
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1d6f94a5bb13e30800000000000000
+      internalID: 4481569100672717248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_86
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec4187bb724bc170800000000000000
+      internalID: 8199720645685234914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_87
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988972267a83dc6e0800000000000000
+      internalID: -1815732783202985847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_88
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40afb3e0aad23c50800000000000000
+      internalID: 6643612784875511882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_89
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1791835ad53c72a90800000000000000
+      internalID: -7338682260805641871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_90
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1ca45224bd7fde0800000000000000
+      internalID: -1299328890333118040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_91
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53639870105335f00800000000000000
+      internalID: 1104284612173575733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_92
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c66dab18967eb080800000000000000
+      internalID: -9169761395608295743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_93
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c049f0d6241e7e0800000000000000
+      internalID: -1738034945008071634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_94
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c519799175ee500800000000000000
+      internalID: 427374782075460733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_95
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37fe2721545fc3f0800000000000000
+      internalID: -878390694787483841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_96
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8594935123ccf2770800000000000000
+      internalID: 8588307529895332184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_97
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922562994b846b800800000000000000
+      internalID: 627769138565501481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_98
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37647d52b46be06f0800000000000000
+      internalID: -716434856831662477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_99
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69709a46c240803e0800000000000000
+      internalID: -2087413838572353642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_100
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8217a476636a76ed0800000000000000
+      internalID: -2420783522096975576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_101
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1525f7a8c2b1fd630800000000000000
+      internalID: 3953908875970695761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_102
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6414ec3c295846c50800000000000000
+      internalID: 6657593014557229382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_103
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313a79bb0159a79c0800000000000000
+      internalID: -3928663825828044013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_104
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e18cf2bbf0ddf50800000000000000
+      internalID: 6907694700091153945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_105
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a964bf5ce55898b10800000000000000
+      internalID: 1984263752928413338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_106
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5ad4a43d2d991e0800000000000000
+      internalID: -2190487938812500568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_107
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab70fa3b587d17c0800000000000000
+      internalID: -4098987752611087450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_108
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3e02865ee5a4510800000000000000
+      internalID: 1534142962460582902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_109
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755be56f6d0908ce0800000000000000
+      internalID: -1404963830808791721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_110
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59e3b3224a08ea70800000000000000
+      internalID: 8856339946407192923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_111
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc80887b81c1e5000800000000000000
+      internalID: 26489540294740172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_112
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc7fc7a53d0a65a0800000000000000
+      internalID: -6527390185820291844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_113
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6120f0320c497d660800000000000000
+      internalID: 7410555264804258326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_114
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f300beeddc1c590800000000000000
+      internalID: -7655611534244036776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_115
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5022eb8e1efa4b0800000000000000
+      internalID: -5426870636219595279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_116
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be57ebcbf83432e0800000000000000
+      internalID: -2147028468239999311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_117
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9667f18e2b2136880800000000000000
+      internalID: -8619024702249142679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_118
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253225b882e00a4c0800000000000000
+      internalID: -4278404078703074478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_swamp_strip60_119
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4571a2e17cb6440800000000000000
+      internalID: 4930253149456258244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
